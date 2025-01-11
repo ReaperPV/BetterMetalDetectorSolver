@@ -6,3 +6,5 @@ A marginally better version of https://www.chattriggers.com/modules/v/MetalDetec
 Requires coleweight for the logic to draw the line
 
 Simply drop the 'BetterMetalDetectorSolver' folder into your ChatTriggers modules folder (run '/ct files' in game) and you are good to go
+
+If you don't care about my 2 changes to the original module, just /ct import MetalDetectorSolver
