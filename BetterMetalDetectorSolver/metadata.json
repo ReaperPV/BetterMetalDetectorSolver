@@ -1,0 +1,9 @@
+{
+    "name":"BetterMetalDetectorSolver",
+    "author": "tenios, Soopyboo32",
+    "entry": "index.js",
+    "requires": ["Coleweight"],
+    "version": "1.0.0",
+    "description": "Highlights where the chest should be for the metal detector quest in the Crystal Hollows, with a couple added features, full credit to tenios and Soopyboo32 for actually doing the hard part"
+  }
+  
